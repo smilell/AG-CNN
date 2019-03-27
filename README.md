@@ -7,7 +7,7 @@ Recently, the attention mechanism has been successfully applied in convolutional
 
 # Models
 The whole architecture consists 3 parts, attention prediction subnet, pathological area localization subnet and glaucoma classification subnet, as shown below.
-![1](https://github.com/smilell/AG-CNN/blob/master/fullnet_1.pdf)
+![1](https://github.com/smilell/AG-CNN/blob/master/fullnet_1.PNG)
 
 
 # Database
