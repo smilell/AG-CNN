@@ -20,10 +20,10 @@ If any question, please contact liliu1995@buaa.edu.cn or liliu419@foxmail.com.
 
 
 # Citation
-@article{li2019attention,
-  title={Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model},
-  author={Li, Liu and Xu, Mai and Wang, Xiaofei and Jiang, Lai and Liu, Hanruo},
-  journal={arXiv preprint arXiv:1903.10831},
-  year={2019}
+@article{li2019attention,  
+  title={Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model},  
+  author={Li, Liu and Xu, Mai and Wang, Xiaofei and Jiang, Lai and Liu, Hanruo},  
+  journal={arXiv preprint arXiv:1903.10831},  
+  year={2019}  
 }
 
