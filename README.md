@@ -8,7 +8,8 @@ Recently, the attention mechanism has been successfully applied in convolutional
 # Models
 
 # Database
-As introduced in our paper, our AG-CNN model is trained by our newly-established LAG database, which is available at https://www.dropbox.com/s/nwvvk2fkb4t57f3/LAG_database.rar?dl=0
+
+As introduced in our paper, our AG-CNN model is trained by our newly-established LAG database, which is available at [Dropbox](https://www.dropbox.com/s/nwvvk2fkb4t57f3/LAG_database.rar?dl=0)
 
 
 
