@@ -7,11 +7,11 @@ Recently, the attention mechanism has been successfully applied in convolutional
 
 # Models
 The whole architecture consists 3 parts, attention prediction subnet, pathological area localization subnet and glaucoma classification subnet, as shown below.
-!(https://github.com/smilell/AG-CNN/blob/master/fullnet_1.pdf)
+![](https://github.com/smilell/AG-CNN/blob/master/fullnet_1.pdf)
 
 
 # Database
-!(https://github.com/smilell/AG-CNN/blob/master/database2_s.pdf)
+![](https://github.com/smilell/AG-CNN/blob/master/database2_s.pdf)
 As introduced in our paper, our AG-CNN model is trained by our newly-established LAG database, which is available at [Dropbox](https://www.dropbox.com/s/nwvvk2fkb4t57f3/LAG_database.rar?dl=0) under request.
 Please contact us for the passport.
 
