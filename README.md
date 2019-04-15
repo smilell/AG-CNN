@@ -12,7 +12,7 @@ The whole architecture consists 3 parts, attention prediction subnet, pathologic
 
 # Database
 ![2](https://github.com/smilell/AG-CNN/blob/master/database2.png)
-As introduced in our paper, our AG-CNN model is trained by our newly-established LAG database, which is available at [Dropbox](https://www.dropbox.com/s/nwvvk2fkb4t57f3/LAG_database.rar?dl=0) under request. Please contact us for the passport.   
+As introduced in our paper, our AG-CNN model is trained by our newly-established LAG database, which is available at [Dropbox](https://www.dropbox.com/s/7mcngr3xhlaj5uc/LAG_database_part_1.rar?dl=0) under request. Please contact us for the passport.   
 Note that the LAG database should ONLY be used for academic purpose and other usage is refused and it is NOT allowed to be re-upload on the internet.
 
 # Licence
