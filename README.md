@@ -14,7 +14,7 @@ Some samples from our LAG database.
 
 
 # Download
-We have upload the first part of our LAG database at [Dropbox](https://www.dropbox.com/s/7mcngr3xhlaj5uc/LAG_database_part_1.rar?dl=0) under request. Please contact us for the passport.
+We have uploaded the first part of our LAG database at [Dropbox](https://www.dropbox.com/s/7mcngr3xhlaj5uc/LAG_database_part_1.rar?dl=0) under request. Please contact us for the passport.
 
 Note that the LAG database should ONLY be used for academic purpose and other usage is refused. Also, it is NOT allowed to re-upload the LAG database on the internet.
 
@@ -24,6 +24,3 @@ Our work is conducted according to the tenets of Helsinki Declaration. As the re
 
 # Contact
 If any question, please contact liliu1995@buaa.edu.cn or liliu419@foxmail.com.
-
-
-
