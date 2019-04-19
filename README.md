@@ -1,5 +1,5 @@
 # AG-CNN
-The model of "Attention-based CNN for Glaucoma Detection (AG-CNN)", which has been poblished as "Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model".
+The model of "Attention-based CNN for Glaucoma Detection (AG-CNN)", which has been published as "Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model".
 
 # Database
 ![2](https://github.com/smilell/AG-CNN/blob/master/database2.png)
