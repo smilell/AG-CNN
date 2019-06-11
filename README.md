@@ -21,6 +21,14 @@ Note that the LAG database should ONLY be used for academic purpose and other us
 # Licence
 Our work is conducted according to the tenets of Helsinki Declaration. As the retrospective nature and fully anonymized usage of color retinal fundus images, we are exempted by the medical ethics committee to inform the patients. 
 
+# Citation
+@InProceedings{Li_2019_CVPR,
+author = {Li, Liu and Xu, Mai and Wang, Xiaofei and Jiang, Lai and Liu, Hanruo},
+title = {Attention Based Glaucoma Detection: A Large-Scale Database and CNN Model},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
 
 # Contact
 If any question, please contact liliu1995@buaa.edu.cn or liliu419@foxmail.com.
