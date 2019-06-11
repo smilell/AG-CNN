@@ -23,11 +23,17 @@ Our work is conducted according to the tenets of Helsinki Declaration. As the re
 
 # Citation
 @InProceedings{Li_2019_CVPR,
+
 author = {Li, Liu and Xu, Mai and Wang, Xiaofei and Jiang, Lai and Liu, Hanruo},
+
 title = {Attention Based Glaucoma Detection: A Large-Scale Database and CNN Model},
+
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+
 month = {June},
+
 year = {2019}
+
 }
 
 # Contact
