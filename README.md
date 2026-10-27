@@ -15,7 +15,10 @@ Some samples from our LAG database.
 
 # Download
 We have uploaded the first part of our LAG database at [Dropbox](https://www.dropbox.com/s/7mcngr3xhlaj5uc/LAG_database_part_1.rar?dl=0). 
+
+
 ** Updates: the password of the dataset is ric401 ** 
+
 
 Note that the LAG database should ONLY be used for academic purposes and other usage is refused. Also, it is NOT allowed to re-upload the LAG database on the internet.
 
